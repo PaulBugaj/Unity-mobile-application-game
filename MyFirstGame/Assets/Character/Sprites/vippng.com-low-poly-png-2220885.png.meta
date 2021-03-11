@@ -1,0 +1,1465 @@
+fileFormatVersion: 2
+guid: 25d948693d72467438e76041bee7c638
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: vippng.com-low-poly-png-2220885_0
+    21300002: vippng.com-low-poly-png-2220885_1
+    21300004: vippng.com-low-poly-png-2220885_2
+    21300006: vippng.com-low-poly-png-2220885_3
+    21300008: vippng.com-low-poly-png-2220885_4
+    21300010: vippng.com-low-poly-png-2220885_5
+    21300012: vippng.com-low-poly-png-2220885_6
+    21300014: vippng.com-low-poly-png-2220885_7
+    21300016: vippng.com-low-poly-png-2220885_8
+    21300018: vippng.com-low-poly-png-2220885_9
+    21300020: vippng.com-low-poly-png-2220885_10
+    21300022: vippng.com-low-poly-png-2220885_11
+    21300024: vippng.com-low-poly-png-2220885_12
+    21300026: vippng.com-low-poly-png-2220885_13
+    21300028: vippng.com-low-poly-png-2220885_14
+    21300030: vippng.com-low-poly-png-2220885_15
+    21300032: vippng.com-low-poly-png-2220885_16
+    21300034: vippng.com-low-poly-png-2220885_17
+    21300036: vippng.com-low-poly-png-2220885_18
+    21300038: vippng.com-low-poly-png-2220885_19
+    21300040: vippng.com-low-poly-png-2220885_20
+    21300042: vippng.com-low-poly-png-2220885_21
+    21300044: vippng.com-low-poly-png-2220885_22
+    21300046: vippng.com-low-poly-png-2220885_23
+    21300048: vippng.com-low-poly-png-2220885_24
+    21300050: vippng.com-low-poly-png-2220885_25
+    21300052: vippng.com-low-poly-png-2220885_26
+    21300054: vippng.com-low-poly-png-2220885_27
+    21300056: vippng.com-low-poly-png-2220885_28
+    21300058: vippng.com-low-poly-png-2220885_29
+    21300060: vippng.com-low-poly-png-2220885_30
+    21300062: vippng.com-low-poly-png-2220885_31
+    21300064: vippng.com-low-poly-png-2220885_32
+    21300066: vippng.com-low-poly-png-2220885_33
+    21300068: vippng.com-low-poly-png-2220885_34
+    21300070: vippng.com-low-poly-png-2220885_35
+    21300072: vippng.com-low-poly-png-2220885_36
+    21300074: vippng.com-low-poly-png-2220885_37
+    21300076: vippng.com-low-poly-png-2220885_38
+    21300078: vippng.com-low-poly-png-2220885_39
+    21300080: vippng.com-low-poly-png-2220885_40
+    21300082: vippng.com-low-poly-png-2220885_41
+    21300084: vippng.com-low-poly-png-2220885_42
+    21300086: vippng.com-low-poly-png-2220885_43
+    21300088: vippng.com-low-poly-png-2220885_44
+    21300090: vippng.com-low-poly-png-2220885_45
+    21300092: vippng.com-low-poly-png-2220885_46
+    21300094: vippng.com-low-poly-png-2220885_47
+    21300096: vippng.com-low-poly-png-2220885_48
+    21300098: vippng.com-low-poly-png-2220885_49
+    21300100: vippng.com-low-poly-png-2220885_50
+    21300102: vippng.com-low-poly-png-2220885_51
+    21300104: vippng.com-low-poly-png-2220885_52
+    21300106: vippng.com-low-poly-png-2220885_53
+    21300108: vippng.com-low-poly-png-2220885_54
+    21300110: vippng.com-low-poly-png-2220885_55
+    21300112: vippng.com-low-poly-png-2220885_56
+    21300114: vippng.com-low-poly-png-2220885_57
+    21300116: vippng.com-low-poly-png-2220885_58
+    21300118: vippng.com-low-poly-png-2220885_59
+    21300120: vippng.com-low-poly-png-2220885_60
+    21300122: vippng.com-low-poly-png-2220885_61
+    21300124: vippng.com-low-poly-png-2220885_62
+    21300126: vippng.com-low-poly-png-2220885_63
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 897
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ad3dc1b68310e4891166b80a00678e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dab1641d960dbb4191cc8b9b2bf94e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 894
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb65d4879c804649b331d14a5fe39d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 892
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f839c6dd0f32dec47bcdee044c5fb3b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 892
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8305d11159123f84cab4ceb8ed74aba1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_5
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 891
+        width: 98
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fc54e132f284c41a60975f98eab713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_6
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 892
+        width: 97
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fece9c7fa38e6b7479150df3c612bbd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_7
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 890
+        width: 94
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291e542ce44b5ab4ab3f42f3d2a00f79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 760
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378aa91108b2938409bf179b78ca7dbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 760
+        width: 92
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c754f074137a9c84cb40dbd4e1078867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_10
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 761
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b2a6adc57f6e94eae5965731c12f14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 763
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e7ba392f7a2dc40927749061d53bfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_12
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 766
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64246b255e65ceb4e9c8c2c568ef1e9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_13
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 771
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6874e28397b96479cd89b2b8843114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_14
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 774
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d9ac8eb3dffdb4ea8d76666d18f4e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_15
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 773
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afae9ae3dcee8a34490007ae81af24e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 642
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b403615d44466429e9ec08ed5e205e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 641
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042f5b4badb8afc41b0c02f46e45fb90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f8b86a13420d848b61c2d92450c43b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 638
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e856baabc15e5894a8543035c5fac84b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_20
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 638
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fbc4fe15b21fc47b9e8c753d46657c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_21
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 639
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f606d707af6c854e9a0ebc65bc092c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_22
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 639
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d134c62f2a73734798cf042c9d75016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_23
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 640
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7f20c3bd5ce6f4db601de72804da2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 513
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308f69cb3bdfb3e44acb0d43591608b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_25
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 512
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa89b64ebbb6d34fba8ac7712db1fca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_26
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 512
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fdd4e718470674496e9e8ae10be3a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_27
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 513
+        width: 97
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619cda37e7dfdc840b32212141592517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_28
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 515
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0d9676de01f2b42a57a8199278d654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_29
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 516
+        width: 94
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4620a07008c8b4aa4ffc152bd8120d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_30
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 515
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2666cb762daad924caa2cfaf0d4b9ed0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_31
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 514
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a78e3d3b8f7de34fb61718e46ea873a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 383
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3206cdf54378e084a9c2148377988df6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_33
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 382
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a81e5e08976b7e4da536185eb70bd3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_34
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 383
+        width: 87
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd7c5c6c04ffdd418bba89e9f55cc5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_35
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 380
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce71e83d60d25b4d96b812636f6ad57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_36
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 378
+        width: 89
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50be456bd4be0f247a6c00d1a7ee4cea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_37
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 377
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0d68b1befb626409749083247043cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_38
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 378
+        width: 91
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea71a9debc4dc042bf713ed12d31ed7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_39
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 380
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d438a9866b6ace74398bb75d666c0a5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 254
+        width: 91
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2c5077c002a7749aa09a5da5f20c0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_41
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 253
+        width: 89
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a083d4fe7bebf4095b9cbe0ac624d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_42
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 251
+        width: 88
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb560031daa9c94f9128665e95dbdad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_43
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 251
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c45b67d82f93a947b315d0a553954f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_44
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 250
+        width: 85
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f3d76991cb52642b314a0a3a579bf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_45
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 251
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0396e2827dcf96745b76c90d5e946b23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_46
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 252
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94346de594c4e844843670e7c13f527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_47
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 253
+        width: 87
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d7d0aaecfee1d41beccc64c7721032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 125
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063ff0f3adf48db4ca5c234e30339f57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_49
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 126
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92b1f2356dbbec4eba22080f52f8d8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_50
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 127
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3067e175b7674c84d8486e1c86d89583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_51
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 128
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda2e8d95b12619499bc188f819a0df7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_52
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 129
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c38cc4803427c947b627327f09772f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_53
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 131
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8d91c4173f0244e8205192a6cc84bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_54
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 133
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd7c3847d4b07344bd98e7efca41169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_55
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 130
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc75559af60898c42aec5fe11e62d216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446858c22e6ff0d4c8ca4994b64cc39a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_57
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074a262e725c63446958aa585c544a19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_58
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27fff41241c778429ffa603c6b501cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_59
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06fe692ed3258c408a06e1a3af83539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_60
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 4
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cb81fa99a269248a11b64b203e06d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_61
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 3
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396277bb9972f81448bca56fa8d1525d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_62
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca104c7e7f8a884ebda64fa9336c1e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vippng.com-low-poly-png-2220885_63
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 0
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68235e30dd3fba040b4e9e941557bb18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 178a5b30e57e7dc49b96d23a55c75cff
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
